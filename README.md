@@ -2,7 +2,7 @@
 
 I'm [Ryan(Pythonize)], a passionate developer from [Korea, Republic of].
 
-![Profile views](https://gpvc.arturio.dev/Pythonize)
+!(https://gpvc.arturio.dev/Pythonize)
 
 ## About Me
 
@@ -21,7 +21,7 @@ I'm [Ryan(Pythonize)], a passionate developer from [Korea, Republic of].
 
 ## Featured Projects
 
-### [AI Artificial Intelligence Contact Center(AICC) Web Service Development]([project-link](https://www.codelabit.co.kr/)
+### [AI Artificial Intelligence Contact Center(AICC) Web Service Development](https://www.codelabit.co.kr/)
 Description of the project. ![Repo Stars](https://img.shields.io/github/stars/Pythonize/repo-name?style=social) ![Repo Forks](https://img.shields.io/github/forks/Pythonize/repo-name?style=social)
 
 ## Connect with me
