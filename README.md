@@ -2,7 +2,6 @@
 
 I'm [Ryan(Pythonize)], a passionate developer from [Korea, Republic of].
 
-!(https://gpvc.arturio.dev/Pythonize)
 
 ## About Me
 
