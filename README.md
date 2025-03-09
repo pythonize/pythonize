@@ -23,9 +23,9 @@
 **기간:** 2024.08 ~ 2024.10  
 **역할:** 데이터 크롤링, DB 설계, AI 챗봇 개발 (기여도: 20%)  
 **기술 스택:** Python, SQL, TensorFlow, React, Pandas, GitHub  
-🔗 **[GitHub Repo](https://github.com/AICC-PFLOW)** | 🔗 **[서비스 링크](https://pflow.ddns.net/)**
-🔗 **[Presentation]([3팀_pflow_최종프로젝트.pdf](https://github.com/pythonize/aiDev/blob/main/3%ED%8C%80_pflow_%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf))**
-🔗 **[Code]([https://github.com/AICC-PFLOW](https://github.com/pythonize/aiDev/blob/main/241001%20Job%20searching%20code%20work/Wanted%20Data%20Preprocessing%20_%20All%20Data.ipynb))**
+🔗 **[GitHub Repo](https://github.com/AICC-PFLOW)** | 🔗 **[Service Link](https://pflow.ddns.net/)**
+🔗 **[Presentation](https://github.com/pythonize/aiDev/blob/main/3%ED%8C%80_pflow_%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)**
+🔗 **[Code](https://github.com/pythonize/aiDev/blob/main/241001%20Job%20searching%20code%20work/Wanted%20Data%20Preprocessing%20_%20All%20Data.ipynb)**
 
 ✅ **주요 기여:**  
 - Selenium을 활용한 **채용 공고 크롤링** 및 데이터 적재 자동화  
