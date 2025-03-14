@@ -92,6 +92,6 @@
 ## 📬 Contact  
 📧 **Email:** different0423@gmail.com  
 📌 **GitHub:** [github](https://github.com/pythonize)  
-📌 **Portfolio:** [Portfolio](https://github.com/pythonize/pythonize/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%83%81%ED%98%84(%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B0%80).pdf)]
+📌 **Portfolio:** [Portfolio](https://github.com/pythonize/pythonize/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%83%81%ED%98%84(%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B0%80).pdf)
 
 ---
