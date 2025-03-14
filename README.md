@@ -43,7 +43,8 @@
 **기간:** 2025.01 ~ 2025.02  
 **역할:** 데이터 전처리, 특징 엔지니어링, 머신러닝 모델링  
 **기술 스택:** Python, Pandas, RandomForestRegressor, XGBoost, LightGBM, scikit-learn, SQL  
-🔗 **[GitHub Repo_RF](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250214_shopping_mall_sales_predict_RF.ipynb)**  
+🔗 **[GitHub Repo_RF](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250214_shopping_mall_sales_predict_RF.ipynb)**
+🔗 **[Presentation](https://github.com/pythonize/data_study/blob/e1e7169a4a5a21caa81f4eda10783dcca81b3a43/Project%20_%20%EC%87%BC%ED%95%91%EB%AA%B0%20%EB%A7%A4%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.pdf)**
 
 ✅ **주요 기여:**  
 - 매장별 매출 데이터 분석 및 **시계열 예측 모델 구축**  
@@ -54,7 +55,7 @@
 
 ✅ **성과:**  
 - GitHub Repo RF RMSE 기준 **상위 4.7% 예측 성능 달성**
-- 데이터 시각화 및 비즈니스 인사이트 도출 
+- 데이터 시각화 및 비즈니스 인사이트 도출
 
 ---
 
@@ -91,6 +92,6 @@
 ## 📬 Contact  
 📧 **Email:** different0423@gmail.com  
 📌 **GitHub:** [github](https://github.com/pythonize)  
-📌 **Portfolio:** [https://github.com/pythonize]  
+📌 **Portfolio:** [Portfolio](https://github.com/pythonize/pythonize/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%83%81%ED%98%84(%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B0%80).pdf)]
 
 ---
