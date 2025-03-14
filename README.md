@@ -22,10 +22,10 @@
 ### 1️⃣ AI Job Recommendation & Chatbot (AICC Team Project)  
 **기간:** 2024.08 ~ 2024.10  
 **역할:** 데이터 크롤링, DB 설계, AI 챗봇 개발 (기여도: 20%)  
-**기술 스택:** Python, SQL, TensorFlow, React, Pandas, GitHub  
-🔗 **[GitHub Repo](https://github.com/AICC-PFLOW)** | 🔗 **[Service Link](https://pflow.ddns.net/)**
-🔗 **[Presentation](https://github.com/pythonize/aiDev/blob/main/3%ED%8C%80_pflow_%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)**
-🔗 **[Code](https://github.com/pythonize/aiDev/blob/main/241001%20Job%20searching%20code%20work/Wanted%20Data%20Preprocessing%20_%20All%20Data.ipynb)**
+**기술 스택:** Python, SQL, TensorFlow, React, Pandas, GitHub
+🔗 **[Presentation](https://github.com/pythonize/aiDev/blob/main/%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20_%20AI%EC%B6%94%EC%B2%9C%20%EA%B8%B0%EB%8A%A5(%EC%9D%B4%EC%83%81%ED%98%84).pdf)**
+|🔗 **[Code](https://github.com/pythonize/aiDev/blob/main/241001%20Job%20searching%20code%20work/Wanted%20Data%20Preprocessing%20_%20All%20Data.ipynb)**
+|🔗 **[GitHub Repo](https://github.com/AICC-PFLOW)** | 🔗 **[Service Link](https://pflow.ddns.net/)**
 
 ✅ **주요 기여:**  
 - Selenium을 활용한 **채용 공고 크롤링** 및 데이터 적재 자동화  
@@ -43,19 +43,19 @@
 **기간:** 2025.01 ~ 2025.02  
 **역할:** 데이터 전처리, 특징 엔지니어링, 머신러닝 모델링  
 **기술 스택:** Python, Pandas, RandomForestRegressor, XGBoost, LightGBM, scikit-learn, SQL  
-🔗 **[GitHub Repo_RF](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250214_shopping_mall_sales_predict_RF.ipynb)**
 🔗 **[Presentation](https://github.com/pythonize/data_study/blob/e1e7169a4a5a21caa81f4eda10783dcca81b3a43/Project%20_%20%EC%87%BC%ED%95%91%EB%AA%B0%20%EB%A7%A4%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.pdf)**
 
 ✅ **주요 기여:**  
 - 매장별 매출 데이터 분석 및 **시계열 예측 모델 구축**  
-- Feature Engineering: **프로모션, 시즌성, 날씨 변수 추가**  
-- **XGBoost, LightGBM 튜닝**을 통한 예측 성능 개선
+- Feature Engineering: **날짜, 휴일여부, 프로모션, 실업률, 연료비, 기온 등 변수 전처리**  
+- **RandomForest, XGBoost, LightGBM 튜닝**을 통한 예측 성능 개선
 🔗 **[GitHub Repo Modeling](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250217_shopping_mall_sales_predict_XGB.ipynb)**
 🔗 **[GitHub Repo XGB_Tuning](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250218_shopping_mall_sales_predict_XGB_Tuning.ipynb)** 
 
 ✅ **성과:**  
-- GitHub Repo RF RMSE 기준 **상위 4.7% 예측 성능 달성**
+- 최종 RandomForestRegressor RMSE 기준 **상위 4.2% 예측 성능 달성**
 - 데이터 시각화 및 비즈니스 인사이트 도출
+🔗 **[GitHub Repo_RF](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250214_shopping_mall_sales_predict_RF.ipynb)**
 
 ---
 
@@ -74,10 +74,11 @@
 📌 **데이터 기반 매출 분석 및 프로모션 기획**  
 
 ✅ **성과 사례:**  
-- **신제품 라면 런칭 → 이벤트 진행 유통 내 매출 1위** (소형 매장 데이터 분석 & VMD 활용)  
-- **여름 시즌 프로모션 → 매출 50% 증가** (월 4천만 → 6천만)  
-- **연계 진열 전략 → 매출 5배 상승** (도토리묵 & 냉면육수 조합)  
-- **신제품 식물성 햄 → 기존 매장 대비 4배 매출 상승** (웰빙 식단 기획)  
+- **여름 시즌 프로모션 → 매출 50% 증가 (월 4천만 → 6천만)  
+- **먹자골목 연출 이벤트 매대 형성 → 냉동 제품 및 라면 매출 이전 대비 +56% (VMD 및 프로모션 전략 활용)  
+- **연계 진열 전략 → 전년 동기 대비 매출 10배 상승 (도토리묵 & 냉면육수 조합)  
+- **경쟁사 대비 판매환경 우위 탈환 → 지속 매출 공유 및 전략적 이벤트 진행에 따른 결과
+- **신제품 라면 런칭 → 전국 매출 1위 (VMD 및 프로모션 전략 활용)    
 
 ---
 
