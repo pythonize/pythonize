@@ -43,19 +43,39 @@
 **기간:** 2025.01 ~ 2025.02  
 **역할:** 데이터 전처리, 특징 엔지니어링, 머신러닝 모델링  
 **기술 스택:** Python, Pandas, RandomForestRegressor, XGBoost, LightGBM, scikit-learn, SQL  
-🔗 **[Presentation](https://github.com/pythonize/data_study/blob/e1e7169a4a5a21caa81f4eda10783dcca81b3a43/Project%20_%20%EC%87%BC%ED%95%91%EB%AA%B0%20%EB%A7%A4%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.pdf)**
+🔗 **[Presentation](https://github.com/pythonize/data_study/blob/dbd9f5f4de48f91e617b0cec45d2d12121a47078/Personal%20Project/Shoppingmall%20Sales%20Predict%20_%20Dacon/Project%20_%20%EC%87%BC%ED%95%91%EB%AA%B0%20%EB%A7%A4%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%EB%8D%B8.pdf)**
 
 ✅ **주요 기여:**  
 - 매장별 매출 데이터 분석 및 **시계열 예측 모델 구축**  
 - Feature Engineering: **날짜, 휴일여부, 프로모션, 실업률, 연료비, 기온 등 변수 전처리**  
 - **RandomForest, XGBoost, LightGBM 튜닝**을 통한 예측 성능 개선
-🔗 **[GitHub Repo Modeling](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250217_shopping_mall_sales_predict_XGB.ipynb)**
-🔗 **[GitHub Repo XGB_Tuning](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250218_shopping_mall_sales_predict_XGB_Tuning.ipynb)** 
 
 ✅ **성과:**  
 - 최종 RandomForestRegressor RMSE 기준 **상위 4.2% 예측 성능 달성**
 - 데이터 시각화 및 비즈니스 인사이트 도출
-🔗 **[GitHub Repo_RF](https://github.com/pythonize/data_study/blob/5c6e354bf1d6521ee49b78c7cd1fdaef8a15e52d/250214_shopping_mall_sales_predict_RF.ipynb)**
+🔗 **[GitHub Repo_RF](https://github.com/pythonize/data_study/blob/dbd9f5f4de48f91e617b0cec45d2d12121a47078/Personal%20Project/Shoppingmall%20Sales%20Predict%20_%20Dacon/250214_shopping_mall_sales_predict_RF.ipynb)**
+
+---
+
+### 3️⃣ 풀무원 신제품 얇은피 교자만두 매출 시각화 (Tableau Public)  
+**기간:** 2025.03 ~ 2025.04  
+**역할:** 데이터 전처리, 시각화 설계, 비즈니스 인사이트 도출  
+**기술 스택:** Excel, Tableau Public, 데이터 시각화, KPI 분석, 피벗 테이블
+🔗 **[Presentation](https://github.com/pythonize/data_study/blob/dbd9f5f4de48f91e617b0cec45d2d12121a47078/Personal%20Project/Pulmuone%20Dumpling%20Sales%20Visualization%20_%20Work%20Data/250410%20Visualization%20Project%20_%20New%20Thin%20Skin%20Dumpling%20Sales.pdf)**
+
+✅ **주요 기여:**  
+- **5개 지점 × 5개 품목군 × 2개 연도(2019~2020)**의 유통 판매 데이터를 기반으로  
+  **Tableau 대시보드 구성 및 시각 분석 수행**
+- 연도별, 지점별, 품목별 실적 비교 / 파이차트 시각화 구성
+- **계산 필드(`신장률(%)`)를 활용하여 전년 대비 성장률 정량화**
+- **사용자용 인터랙티브 필터 구성** (지점, 연도, 품목군 등)
+- **결과 요약 및 마케팅 전략 제안 포함한 PPT 보고서 작성**
+
+✅ **성과 및 인사이트:**
+- 대전, 광주지점은 **오리지널 제품 의존도 높고**, 신제품 비중 낮음 → **리뉴얼 프로모션 필요**
+- **얇은피 교자(고기)**는 전 지점에서 고른 판매량 → 전략 품목으로 육성 가능성 확인
+- **전년 대비 -27.3% 매출 감소** 확인 → 브랜드 전반 리포지셔닝 및 고객 분석 필요
+- Tableau 대시보드를 통한 분석 및 **PPT 포맷 리포트화 → 포트폴리오 문서화 완료**
 
 ---
 
@@ -93,6 +113,6 @@
 ## 📬 Contact  
 📧 **Email:** different0423@gmail.com  
 📌 **GitHub:** [github](https://github.com/pythonize)  
-📌 **Portfolio:** [Portfolio](https://github.com/pythonize/pythonize/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%83%81%ED%98%84(%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EA%B0%80).pdf)
+📌 **Portfolio:** [Portfolio](https://github.com/pythonize/pythonize/blob/f065f3fda9c08090831f973028add7612bfddb2f/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%83%81%ED%98%84.pdf)
 
 ---
