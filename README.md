@@ -18,24 +18,23 @@
 
 ---
 
-## 🚀 Projects  
-### 1️⃣ AI Job Recommendation & Chatbot (AICC Team Project)  
-**기간:** 2024.08 ~ 2024.10  
-**역할:** 데이터 크롤링, DB 설계, AI 챗봇 개발 (기여도: 20%)  
-**기술 스택:** Python, SQL, TensorFlow, React, Pandas, GitHub
-🔗 **[Presentation](https://github.com/pythonize/aiDev/blob/main/%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20_%20AI%EC%B6%94%EC%B2%9C%20%EA%B8%B0%EB%8A%A5(%EC%9D%B4%EC%83%81%ED%98%84).pdf)**
-|🔗 **[Code](https://github.com/pythonize/aiDev/blob/main/241001%20Job%20searching%20code%20work/Wanted%20Data%20Preprocessing%20_%20All%20Data.ipynb)**
-|🔗 **[GitHub Repo](https://github.com/AICC-PFLOW)** | 🔗 **[Service Link](https://pflow.ddns.net/)**
+### 1️⃣ 풀무원 김치 활성화 기획 매출 예측 프로젝트 (현업 데이터 기반)  
+**기간:** 2025.03 ~ 2025.04  
+**역할:** 데이터 전처리, 시계열 변환, 피쳐 엔지니어링, 머신러닝 회귀모델 구축  
+**기술 스택:** Python, Pandas, NumPy, XGBoost, LightGBM, scikit-learn 
+🔗 **[Presentation](https://github.com/pythonize/data_study/blob/main/Personal%20Project/Pulmuone%20Kimchi%20Sales%20Predict%20_%20Work%20Data/250417%20%ED%92%80%EB%AC%B4%EC%9B%90%20%EA%B9%80%EC%B9%98%20%EB%A7%A4%EC%B6%9C%EC%95%A1%20%EC%98%88%EC%B8%A1%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)**
 
 ✅ **주요 기여:**  
-- Selenium을 활용한 **채용 공고 크롤링** 및 데이터 적재 자동화  
-- **DB 설계 및 SQL 최적화**로 빠른 검색 성능 구현  
-- AI 챗봇에서 **TfidfVectorizer + cosine similarity** 활용한 **구직 추천 시스템** 개발  
+- **지점/품목별 김치 매출 데이터를 Wide-to-Long 형태로 변환**하고 결측 및 이상치 데이터를 필터링하여 정제  
+- **날짜 파생 변수, ZONE 여부, 단가, 목표수량, 홍보일수** 등 다양한 Feature Engineering 수행  
+- **XGBoost 회귀 모델을 사용해 모델링 진행
+- 예측 결과는 **MAE, RSME** 등의 지표로 정량 평가
 
 ✅ **성과:**  
-- 크롤링 시 **headless, stealth 모드** 적용 → 속도 최적화  
-- 유사도 기반 추천 기능으로 검색 시간 단축  
-- **9천 건 이상**의 채용 공고 데이터 정제 및 처리  
+- 다양한 특성 조합을 활용한 시계열 회귀 분석으로 MAE/RMSE 지표 개선(오차 7,289원/평균 1개 수준)
+- 판매가격과 홍보일수 등 변수가 예측에 유의미하다는 사실을 도출
+- 실제 판촉 전략 수립 및 물량 발주 계획 수립에 활용 가능성 제시
+🔗 **[Modeling Code](https://github.com/pythonize/data_study/blob/main/Personal%20Project/Pulmuone%20Kimchi%20Sales%20Predict%20_%20Work%20Data/250416_Pulmuone_Kimchi_Sales_Predict_Modeling.ipynb)**
 
 ---
 
@@ -57,7 +56,28 @@
 
 ---
 
-### 3️⃣ 풀무원 신제품 얇은피 교자만두 매출 시각화 (Tableau Public)  
+## 🚀 Projects  
+### 3️⃣ AI Job Recommendation & Chatbot (AICC Team Project)  
+**기간:** 2024.08 ~ 2024.10  
+**역할:** 데이터 크롤링, DB 설계, AI 챗봇 개발 (기여도: 20%)  
+**기술 스택:** Python, SQL, TensorFlow, React, Pandas, GitHub
+🔗 **[Presentation](https://github.com/pythonize/aiDev/blob/main/%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20_%20AI%EC%B6%94%EC%B2%9C%20%EA%B8%B0%EB%8A%A5(%EC%9D%B4%EC%83%81%ED%98%84).pdf)**
+|🔗 **[Code](https://github.com/pythonize/aiDev/blob/main/241001%20Job%20searching%20code%20work/Wanted%20Data%20Preprocessing%20_%20All%20Data.ipynb)**
+|🔗 **[GitHub Repo](https://github.com/AICC-PFLOW)** | 🔗 **[Service Link](https://pflow.ddns.net/)**
+
+✅ **주요 기여:**  
+- Selenium을 활용한 **채용 공고 크롤링** 및 데이터 적재 자동화  
+- **DB 설계 및 SQL 최적화**로 빠른 검색 성능 구현  
+- AI 챗봇에서 **TfidfVectorizer + cosine similarity** 활용한 **구직 추천 시스템** 개발  
+
+✅ **성과:**  
+- 크롤링 시 **headless, stealth 모드** 적용 → 속도 최적화  
+- 유사도 기반 추천 기능으로 검색 시간 단축  
+- **9천 건 이상**의 채용 공고 데이터 정제 및 처리  
+
+---
+
+### 4️⃣ 풀무원 신제품 얇은피 교자만두 매출 시각화 (Tableau Public)  
 **기간:** 2025.03 ~ 2025.04  
 **역할:** 데이터 전처리, 시각화 설계, 비즈니스 인사이트 도출  
 **기술 스택:** Excel, Tableau Public, 데이터 시각화, KPI 분석, 피벗 테이블
